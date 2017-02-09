@@ -1,1 +1,1 @@
-### Вычислитель отличий [![Build Status](https://travis-ci.org/rreboot/project-lvl2-s18.svg?branch=master)](https://travis-ci.org/rreboot/project-lvl2-s18)
+### Вычислитель отличий [![Build Status](https://travis-ci.org/rreboot/project-lvl2-s18.svg?branch=master)](https://travis-ci.org/rreboot/project-lvl2-s18)[![Code Climate](https://codeclimate.com/github/rreboot/project-lvl2-s18/badges/gpa.svg)](https://codeclimate.com/github/rreboot/project-lvl2-s18)

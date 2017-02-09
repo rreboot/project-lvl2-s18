@@ -1,4 +1,4 @@
+import diff from './differ';
 
-export default (first, second) => {
-  console.log(first, second);
-};
+export default (file1, file2) =>
+  diff(file1, file2);

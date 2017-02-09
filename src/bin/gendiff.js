@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import commander from 'commander';
-import diff from '../index';
+import diff from '../differ';
 import pkg from '../../package.json';
 
 const program = commander;
