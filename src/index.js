@@ -1,4 +1,3 @@
-import diff from './differ';
+import differ from './differ';
 
-export default (file1, file2) =>
-  diff(file1, file2);
+export default (path1, path2) => differ(path1, path2);
